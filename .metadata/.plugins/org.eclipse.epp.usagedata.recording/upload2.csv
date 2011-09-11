@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+os,sysinfo,,,"macosx",1315510450355
+arch,sysinfo,,,"x86_64",1315510450355
+ws,sysinfo,,,"cocoa",1315510450355
+locale,sysinfo,,,"en_US",1315510450355
+processors,sysinfo,,,"2",1315510450355
+java.runtime.name,sysinfo,,,"Java(TM) 2 Runtime Environment, Standard Edition",1315510450355
+java.runtime.version,sysinfo,,,"1.5.0_13-b05-237",1315510450355
+java.specification.name,sysinfo,,,"Java Platform API Specification",1315510450355
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1315510450355
+java.specification.version,sysinfo,,,"1.5",1315510450355
+java.vendor,sysinfo,,,"Apple Inc.",1315510450355
+java.version,sysinfo,,,"1.5.0_13",1315510450355
+java.vm.info,sysinfo,,,"mixed mode",1315510450355
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1315510450355
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1315510450355
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1315510450355
+java.vm.specification.version,sysinfo,,,"1.0",1315510450355
+java.vm.vendor,sysinfo,,,"Apple Inc.",1315510450355
+java.vm.version,sysinfo,,,"1.5.0_13-119",1315510450355
+started,bundle,org.eclipse.m2e.usagedata,1.0.0.20110607-2117,"org.eclipse.m2e.usagedata",1315510450364
+started,bundle,org.eclipse.wb.discovery.ui,1.0.0.r37x201106081733,"org.eclipse.wb.discovery.ui",1315510450643
+opened,view,org.eclipse.ui.ide,3.7.0.I20110519-0100,"org.eclipse.ui.views.ProblemView",1315510451678
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510489817
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315510489822
+started,bundle,com.android.ide.eclipse.ddms,12.0.0.v201106281929-138431,"com.android.ide.eclipse.ddms",1315510494680
+started,bundle,org.eclipse.wst.sse.core,1.1.600.v201105162116,"org.eclipse.wst.sse.core",1315510495413
+started,bundle,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.adt",1315510495415
+started,bundle,org.eclipse.core.filesystem,1.3.100.v20110423-0524,"org.eclipse.core.filesystem",1315510496201
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.200.v20110505-0800,"org.eclipse.ltk.core.refactoring",1315510496205
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring",1315510496207
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510496432
+started,bundle,com.android.ide.eclipse.traceview,12.0.0.v201106281929-138431,"com.android.ide.eclipse.traceview",1315510498684
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510498827
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510504218
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510515268
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.window.preferences",1315510515311
+started,bundle,org.eclipse.debug.core,3.7.0.v20110518,"org.eclipse.debug.core",1315510517244
+started,bundle,org.eclipse.debug.ui,3.7.0.v20110518,"org.eclipse.debug.ui",1315510517333
+started,bundle,org.eclipse.ui.externaltools,3.2.0.v20110506,"org.eclipse.ui.externaltools",1315510517751
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510517933
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510518045
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510520808
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510822007
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.cocoa.closeDialog",1315510822013
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510829177
+error,log,,,"Failed to load properties file for project 'helloworld'",1315510863309
+started,bundle,org.eclipse.jdt.launching,3.6.0.v20110509,"org.eclipse.jdt.launching",1315510863345
+started,bundle,org.eclipse.m2e.core,1.0.0.20110607-2117,"org.eclipse.m2e.core",1315510870997
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1315510871809
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510873611
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315510877709
+error,log,,,"Unable to update index for central|http://repo1.maven.org/maven2",1315510881989
+started,bundle,org.eclipse.jdt.debug,3.7.0.v20110509,"org.eclipse.jdt.debug",1315510889816
+started,bundle,org.eclipse.jdt.debug.ui,3.6.0.v20110512,"org.eclipse.jdt.debug.ui",1315510889979
+started,bundle,org.eclipse.compare.core,3.5.200.I20110208-0800,"org.eclipse.compare.core",1315510894008
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315510894421
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315510895824
+started,bundle,org.eclipse.core.variables,3.2.500.v20110511,"org.eclipse.core.variables",1315510898812
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110505-0800,"org.eclipse.jdt.junit",1315510900902
+activated,view,org.eclipse.mylyn.tasks.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.tasks.ui.views.tasks",1315510901377
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315510901578
+closed,view,org.eclipse.mylyn.tasks.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.tasks.ui.views.tasks",1315510901691
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1315510903681
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315510903844
+closed,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1315510903862
+started,bundle,org.eclipse.mylyn.ide.ant,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ant",1315510903899
+started,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1315510903910
+started,bundle,org.eclipse.mylyn.resources.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.resources.ui",1315510903919
+started,bundle,org.eclipse.mylyn.wikitext.tasks.ui,1.5.0.v20110608-1400,"org.eclipse.mylyn.wikitext.tasks.ui",1315510903925
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110518-0800,"org.eclipse.jdt.junit.core",1315510911457
+error,log,,,"Referenced part does not exist yet: org.eclipse.ui.views.ProblemView.",1315510932199
+opened,view,org.eclipse.debug.ui,3.7.0.v20110518,"org.eclipse.debug.ui.DebugView",1315510932642
+opened,view,org.eclipse.debug.ui,3.7.0.v20110518,"org.eclipse.debug.ui.VariableView",1315510932814
+opened,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1315510932924
+opened,view,com.android.ide.eclipse.ddms,12.0.0.v201106281929-138431,"com.android.ide.eclipse.ddms.views.LogCatView",1315510933919
+activated,perspective,org.eclipse.debug.ui,3.7.0.v20110518,"org.eclipse.debug.ui.DebugPerspective",1315510934201
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.perspectives.showPerspective",1315510934213
+executed,command,org.eclipse.debug.ui,3.7.0.v20110518,"org.eclipse.debug.ui.DebugPerspective",1315510934214
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.ToggleCoolbarAction",1315510945013
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.ToggleCoolbarAction",1315510946082
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315510947520
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315510947563
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.close",1315510947687
+activated,view,org.eclipse.debug.ui,3.7.0.v20110518,"org.eclipse.debug.ui.DebugView",1315510948878
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510951717
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510955663
+activated,perspective,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.JavaPerspective",1315510957175
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315510957187
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510959488
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315510959970
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315510966024
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315510966332
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315510966523
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315510980574
+started,bundle,org.eclipse.wst.sse.ui,1.3.0.v201105101529,"org.eclipse.wst.sse.ui",1315510990657
+started,bundle,org.eclipse.wst.xml.core,1.1.600.v201104251227,"org.eclipse.wst.xml.core",1315510990721
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1315510990897
+started,bundle,org.eclipse.wst.xml.ui,1.1.200.v201105111835,"org.eclipse.wst.xml.ui",1315510990972
+started,bundle,org.eclipse.wst.validation,1.2.300.v201104190230,"org.eclipse.wst.validation",1315510992126
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.200.v201103170332,"org.eclipse.wst.common.project.facet.core",1315510992135
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1315510992291
+started,bundle,org.eclipse.emf.common,2.7.0.v20110605-0747,"org.eclipse.emf.common",1315510992334
+started,bundle,org.eclipse.wst.common.frameworks,1.2.100.v201105122000,"org.eclipse.wst.common.frameworks",1315510993913
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1315510994994
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510995913
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510995929
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/list_pressed_holo_dark.9.png",1315510996129
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315510996133
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315510996137
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996431
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996435
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996477
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996479
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996584
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996587
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996637
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996639
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996669
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996673
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996695
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996723
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996776
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996778
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996800
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996802
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996824
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996834
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996858
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996860
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996887
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996889
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996912
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996914
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510996934
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510996936
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/textfield_multiline_disabled_focused_holo_dark.9.png",1315510997007
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/edit_text_holo_dark.xml",1315510997010
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/list_pressed_holo_dark.9.png",1315510997080
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315510997082
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315510997085
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/spinner_48_outer_holo.png",1315510997138
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/progress_medium_holo.xml",1315510997140
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/spinner_76_outer_holo.png",1315510997247
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/progress_large_holo.xml",1315510997249
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/spinner_16_outer_holo.png",1315510997268
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/progress_small_holo.xml",1315510997271
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/scrubber_control_holo.png",1315510997529
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/scrubber_control_selector_holo.xml",1315510997531
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/list_pressed_holo_dark.9.png",1315510997777
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315510997785
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315510997793
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/list_pressed_holo_dark.9.png",1315510997874
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315510997876
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315510997879
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/list_divider_holo_dark.9.png",1315510997919
+started,bundle,org.eclipse.draw2d,3.7.0.v20110425-2050,"org.eclipse.draw2d",1315511002065
+opened,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315511002498
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315511002681
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_pressed_holo_dark.9.png",1315511018897
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315511018900
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315511018903
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_pressed_holo_dark.9.png",1315511019329
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315511019345
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315511019347
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_pressed_holo_dark.9.png",1315511019589
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315511019592
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315511019593
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_pressed_holo_dark.9.png",1315511019607
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315511019608
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315511019610
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_divider_holo_dark.9.png",1315511019634
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315511039076
+started,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1315511047656
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315511048593
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315511071023
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315511074598
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315511078157
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315511078661
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315511111233
+opened,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1315511114142
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1315511114195
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511117487
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511123450
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511128896
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511131281
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315511140721
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511148170
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511148978
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511183064
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511184087
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511189365
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511189561
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511189952
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511190119
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordPrevious",1315511190741
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511191876
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511192078
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511192231
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511192399
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511192599
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordPrevious",1315511193180
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511195005
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511195222
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511195424
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315511199425
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1315511200975
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315511201749
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315511203667
+opened,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.SourceView",1315511209317
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.SourceView",1315511209347
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315511210224
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511221780
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511222005
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.wordNext",1315511222213
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1315511226030
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1315511234623
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315511240283
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.SourceView",1315511248657
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315511248875
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.ToggleCoolbarAction",1315511256900
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511266905
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511268792
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511323994
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315511326844
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1315511348031

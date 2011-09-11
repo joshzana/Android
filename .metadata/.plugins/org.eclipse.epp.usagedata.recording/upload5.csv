@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315767349307
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315767455319
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315767482612
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315767488934
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315767488974
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315767846755
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315767847254
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315767850648
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315767858244
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315767871059
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315767897878
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315767903969
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1315767918113
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315767920232
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1315767923856
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315767931594
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315767950712
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315767958802
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315767975233
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315767979086
+error,log,,,"main.xml: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/list_pressed_holo_dark.9.png",1315767983181
+error,log,,,"main.xml: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315767983184
+error,log,,,"main.xml: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315767983186
+error,log,,,"main.xml: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-mdpi/list_divider_holo_dark.9.png",1315767983200
+error,log,,,"main.xml: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_pressed_holo_dark.9.png",1315767999378
+error,log,,,"main.xml: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315767999380
+error,log,,,"main.xml: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315767999382
+error,log,,,"main.xml: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_divider_holo_dark.9.png",1315767999392
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_pressed_holo_dark.9.png",1315767999660
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315767999663
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315767999665
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_pressed_holo_dark.9.png",1315768000512
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315768000567
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315768000569
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_pressed_holo_dark.9.png",1315768000982
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315768000989
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315768000996
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_pressed_holo_dark.9.png",1315768001026
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_background_transition_holo_dark.xml",1315768001029
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/list_selector_holo_dark.xml",1315768001035
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-hdpi/list_divider_holo_dark.9.png",1315768001074
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_left.9.png",1315768002466
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_left.xml",1315768002470
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_right.9.png",1315768002504
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_right.xml",1315768002509
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_left.9.png",1315768002743
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_left.xml",1315768002746
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_right.9.png",1315768002757
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_right.xml",1315768002759
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_left.9.png",1315768008997
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_left.xml",1315768009167
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_right.9.png",1315768009187
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_right.xml",1315768009189
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_left.9.png",1315768009200
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_left.xml",1315768009204
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_right.9.png",1315768009214
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_right.xml",1315768009242
+error,log,,,"",1315768010266
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_left.9.png",1315768010281
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_left.xml",1315768010282
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_right.9.png",1315768010292
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_right.xml",1315768010295
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_left.9.png",1315768010305
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_left.xml",1315768010308
+error,log,,,"palette: Failed lot load /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable-ldpi/tab_selected_bar_right.9.png",1315768010316
+error,log,,,"palette: Failed to parse file /Applications/android-sdk-mac_x86/platforms/android-13/data/res/drawable/tab_bottom_right.xml",1315768010321
+error,log,,,"",1315768010340
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768028812
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768031078
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768100483
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768120700
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768123079
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315768804164
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768804346
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1315768804515
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768809178
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768816757
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768824750
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768828541
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768830505
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768833112
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768834150
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768835215
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768867481
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768869242
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315768878299
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315768880995
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315768882409
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315768884579
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1315768897642
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768944145
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768947669
+started,bundle,org.eclipse.m2e.editor.xml,1.0.0.20110607-2117,"org.eclipse.m2e.editor.xml",1315768947742
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768949233
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768951768
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1315768955723
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1315768956933
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315768969876
+error,log,,,"Parser exception for /Users/zana/Documents/workspace/helloworld/AndroidManifest.xml: The prefix ""androind"" for attribute ""androind:name"" associated with an element type ""activity"" is not bound.",1315768970011
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315768970358
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1315768972877
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315768980988
+error,log,,,"Parser exception for /Users/zana/Documents/workspace/helloworld/AndroidManifest.xml: The prefix ""androind"" for attribute ""androind:name"" associated with an element type ""activity"" is not bound.",1315768981124
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315768981870
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315768982666
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315768984035
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315768984626
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1315768985486
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768986205
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315768990320
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1315768990645
+error,log,,,"Parser exception for /Users/zana/Documents/workspace/helloworld/AndroidManifest.xml: The prefix ""androind"" for attribute ""androind:name"" associated with an element type ""activity"" is not bound.",1315768990779
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315768991117
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315768993098
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315768993347
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315769000540
+error,log,,,"Parser exception for /Users/zana/Documents/workspace/helloworld/AndroidManifest.xml: The prefix ""androind"" for attribute ""androind:name"" associated with an element type ""activity"" is not bound.",1315769000637
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315769000907
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315769002978
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315769007787
+error,log,,,"Parser exception for /Users/zana/Documents/workspace/helloworld/AndroidManifest.xml: The prefix ""androind"" for attribute ""androind:name"" associated with an element type ""activity"" is not bound.",1315769007940
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315769008396
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315769008889
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315769009301
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315769009556
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315769019154
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315769020637
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315769023889
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315769028857
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1315769034398
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315769040651
+opened,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1315769042216
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1315769042267
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769044380
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769046243
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769046986
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769047871
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315769051641
+error,log,,,"Parser exception for /Users/zana/Documents/workspace/helloworld/AndroidManifest.xml: The prefix ""androind"" for attribute ""androind:name"" associated with an element type ""activity"" is not bound.",1315769051761
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315769052076
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1315769076370
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1315769076438
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315769080688
+error,log,,,"Parser exception for /Users/zana/Documents/workspace/helloworld/AndroidManifest.xml: The prefix ""androind"" for attribute ""androind:label"" associated with an element type ""activity"" is not bound.",1315769080818
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315769081077
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1315769082366
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315769083498
+activated,view,org.eclipse.ui.ide,3.7.0.I20110519-0100,"org.eclipse.ui.views.ProblemView",1315769088663
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1315769092633
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315769101043
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769106702
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769111241
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769116195
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769117158
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315769119685
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.smartEnter",1315769146643
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769159227
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769159773
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769172624
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769173626
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769210927
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769211386
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769222445
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769228916
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769230605
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769231901
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315769233803
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769235397
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769258864
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769260045
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769287201
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769325935
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769353785
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315769377359
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769396474
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769397851
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769400317
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769409374
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769426780
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769432222
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769433197
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315769449250
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315769451833
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769514314
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769516537
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769517553
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769522811
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769526724
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769527527
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769528695
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769532071
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769532989
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769551153
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769552430
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.smartEnter",1315769586733
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1315769595457
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1315769597891
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769603898
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315769651213
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1315769664815
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769665092
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769667596
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769667730
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769673467
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1315769673633
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315769674278
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315769675460
+opened,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315769675953
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315769676078
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769696750
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769698410
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769700766
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1315769701621
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1315769705501
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315769711053
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1315769713639
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315769715484
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1315769718819
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1315769734893
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1315769736320
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1315769736851
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1315769737369
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315769739279
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1315769739544
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1315769745216
